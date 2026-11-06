@@ -1,0 +1,12 @@
+{
+  "source": "mteb/imdb (pooled published train and test)",
+  "seed": 42,
+  "metric": "macro_f1",
+  "rope": 0.01,
+  "vocab_size": 1000,
+  "sizes": [
+    34707,
+    7437,
+    7438
+  ]
+}

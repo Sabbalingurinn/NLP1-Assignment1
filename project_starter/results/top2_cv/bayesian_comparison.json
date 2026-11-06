@@ -1,0 +1,8 @@
+{
+  "A": "bpe2000_bigrams",
+  "B": "bpe2000_rare_unigrams_bigrams",
+  "rope": 0.01,
+  "P_A_better_by_more_than_rope": 0.001172635034031636,
+  "P_within_rope": 0.9901825583724264,
+  "P_B_better_by_more_than_rope": 0.008644806593541943
+}

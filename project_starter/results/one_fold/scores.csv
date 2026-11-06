@@ -1,0 +1,5 @@
+representation,hidden_layers,macro_f1,n_features,iterations,convergence_warning,feature_seconds,fit_and_predict_seconds
+bigrams,"(64,)",0.9079486936697427,223384,7,False,28.52,144.53
+bigrams,"(32, 32)",0.9046355752406312,223384,19,False,28.52,185.31
+trigrams_hashed,"(64,)",0.8766827593534592,65536,22,False,24.25,90.97
+trigrams_hashed,"(32, 32)",0.8704848676667029,65536,18,False,24.25,37.6

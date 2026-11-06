@@ -1,0 +1,11 @@
+fold,configuration,macro_f1,features,epochs,convergence_warning,warnings,feature_seconds,fit_and_predict_seconds
+1,bpe2000_bigrams,0.9067945496150229,100000,22,False,,27.33,142.28
+1,bpe2000_rare_unigrams_bigrams,0.9083715824712456,100000,20,False,,27.92,122.66
+2,bpe2000_bigrams,0.9036244602063705,100000,21,False,,22.97,124.68
+2,bpe2000_rare_unigrams_bigrams,0.9034856345461475,100000,20,False,,25.44,120.64
+3,bpe2000_bigrams,0.9011665172462292,100000,22,False,,27.01,141.73
+3,bpe2000_rare_unigrams_bigrams,0.9083703216614609,100000,19,False,,30.14,118.04
+4,bpe2000_bigrams,0.899549091023856,100000,22,False,,22.9,134.79
+4,bpe2000_rare_unigrams_bigrams,0.9027412996311968,100000,20,False,,26.06,121.6
+5,bpe2000_bigrams,0.9002979785978167,100000,21,False,,22.72,129.42
+5,bpe2000_rare_unigrams_bigrams,0.9021671613900497,100000,20,False,,27.41,122.36

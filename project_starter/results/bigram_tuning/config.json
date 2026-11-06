@@ -1,0 +1,19 @@
+{
+  "source": "mteb/imdb pooled",
+  "seed": 42,
+  "fold": 1,
+  "folds": 5,
+  "fit_size": 27765,
+  "eval_size": 6942,
+  "metric": "macro_f1",
+  "max_features": 100000,
+  "dtype": "float32",
+  "mlp_hidden_layers": [
+    64
+  ],
+  "mlp_activation": "relu",
+  "mlp_solver": "adam",
+  "mlp_max_iter": 100,
+  "min_df_meaning": "minimum number of training documents containing a feature",
+  "selection": "one fold screening; separate validation and final test untouched"
+}

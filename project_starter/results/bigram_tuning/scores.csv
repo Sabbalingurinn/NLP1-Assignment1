@@ -1,0 +1,6 @@
+configuration,vocab_size,min_df,ngram_range,features,macro_f1,epochs,convergence_warning,feature_seconds,fit_and_predict_seconds
+capped_baseline,1000,1,"(2, 2)",100000,0.9062183180825036,21,False,23.04,127.0
+rare_filter,1000,2,"(2, 2)",100000,0.9052049969883658,22,False,24.24,138.27
+unigrams_and_bigrams,1000,1,"(1, 2)",100000,0.9026193869094734,21,False,28.48,129.95
+bpe_2000,2000,1,"(2, 2)",100000,0.9067945496150229,22,False,23.62,133.88
+all_changes,2000,2,"(1, 2)",100000,0.9083715824712456,20,False,25.99,129.97
